@@ -1,2 +1,2 @@
 # tictactoe
-My first python program.
+Play around with it if you want.
