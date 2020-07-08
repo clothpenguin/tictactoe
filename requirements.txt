@@ -2,4 +2,3 @@
 PyQt5
 
 ###### Requirements with Version Specifiers ######`
-Python >= 3.8
