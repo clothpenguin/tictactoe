@@ -1,11 +1,11 @@
 # tictactoe
-Play around with it if you want.
-# Setup
-Install required packages
+play around with it if you want
+# setup
+install required packages
 ```
 pip install -r requirements.txt
 ```
-Run in terminal with
+run in terminal with
 ```
 python tictactoe.py
 ```
